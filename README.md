@@ -1,4 +1,4 @@
-# Project Name
+# go-basic
 
 Ready-made code for creating fast apis with the gin framework
 
